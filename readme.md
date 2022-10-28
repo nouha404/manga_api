@@ -33,7 +33,6 @@ DOCS = {
     "/docs/": "Documentation.",
     
     "/chapters/": "Get all chapters",
-    "/chapters/100/": "Get informations of chapter 100 (Name and Pages)",
     "/chapters/100/name/": "Get name only about chapter 100",
     "/chapters/100/pages/": "Get all images about chapters 10",
     "/chapters/100/pages/13": "Get image only of chapters 13",
